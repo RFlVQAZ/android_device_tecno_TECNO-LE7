@@ -18,7 +18,7 @@ $(call inherit-product, device/tecno/LE7/device.mk)
 PRODUCT_DEVICE := LE7
 PRODUCT_NAME := twrp_LE7
 PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := TECNO-LE7
+PRODUCT_MODEL := TECNO LE7
 PRODUCT_MANUFACTURER := tecno
 
 PRODUCT_GMS_CLIENTID_BASE := android-tecno
